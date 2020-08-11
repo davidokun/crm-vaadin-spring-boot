@@ -2,7 +2,7 @@
   "name": "no-name",
   "license": "UNLICENSED",
   "dependencies": {
-    "@polymer/polymer": "3.2.0",
+    "@polymer/polymer": "3.4.1",
     "@webcomponents/webcomponentsjs": "^2.2.10",
     "@vaadin/vaadin-crud": "1.2.1",
     "@vaadin/vaadin-icons": "4.3.1",
